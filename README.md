@@ -10,7 +10,7 @@ This is where I documented my first project while learning Data Analysis with th
 
 [Tools Used](tools-used)
 
-[Data Cleaning and Preparation](data cleaning-preparation)
+[Data Cleaning and Preparation](data-cleaning and-preparation)
 
 [Exploratory Data Analysis](exploratory-data-analysis)
 
