@@ -4,6 +4,21 @@
 This is where I documented my first project while learning Data Analysis with the Incubator Hub
 ### Project Title: E-commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of 
