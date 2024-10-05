@@ -6,17 +6,17 @@ This is where I documented my first project while learning Data Analysis with th
 
 [Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](data-sources)
 
-Tools Used
+[Tools Used](tools-used)
 
-Data Cleaning and Preparation
+[Data Cleaning and Preparation](data cleaning-preparation)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
-Data Visualization
+[Data Visualization](data-visualization)
 
 
 ### Project Overview
