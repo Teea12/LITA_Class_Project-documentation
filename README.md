@@ -31,3 +31,11 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 - What is the overall sales trend
 - Which product are top sellers
 - What are the product on peak sales
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
