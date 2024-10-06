@@ -16,7 +16,7 @@ This is where I documented my first project while learning Data Analysis with th
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](d#ata-visualization)
+[Data Visualization](#data-visualization)
 
 
 ### Project Overview
