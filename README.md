@@ -33,7 +33,6 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-- (https://www.microsoft.com/en-gb/microsoft-365/excel#:~:text=Microsoft%20Excel%20is%20the%20industry%20leading%20spreadsheet%20software%20program,%20a?msockid=368fc656badf63381f33cd20bbe7628d)
    1. For Data Cleaning
    2. For Analysis and
    3. For Data Visualization.
