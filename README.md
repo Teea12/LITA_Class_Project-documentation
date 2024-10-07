@@ -41,8 +41,11 @@ The primary source of Data used here is Data Sale.csv and this is an open source
   
 Below are SQL Clauses used
 -Where
+
 -Order by
+
 -Group by
+
 -Having
 
 Below are SQL Operators used
