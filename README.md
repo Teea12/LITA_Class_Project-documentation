@@ -38,6 +38,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
    3. For Data Visualization.
       
 - SQL - Structured Query Language for querying of Data.
+  
 Below are SQL Clauses used
 -Where
 -Order by
