@@ -36,6 +36,57 @@ The primary source of Data used here is Data Sale.csv and this is an open source
    1. For Data Cleaning
    2. For Analysis and
    3. For Data Visualization.
+
+ The following conditional functions were used in Microsoft Excel
+
+IF
+Ifs
+Switch
+And
+Or
+
+Pivot Table was used to create a report in Microsoft Excel.
+
+Also the following Excel functions were also used
+
+LookUp
+
+Vlookup
+
+Average
+
+Averageif
+
+Min 
+
+Max
+
+Sum
+
+Count
+
+Sumif
+
+Left 
+
+Mid
+
+Large
+
+Right
+
+Left
+
+Concatenate
+
+Upper 
+
+Proper
+
+Normal
+
+
+
       
 - SQL - Structured Query Language for querying of Data.
   
