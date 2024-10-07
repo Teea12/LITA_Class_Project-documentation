@@ -49,6 +49,7 @@ Below are SQL Clauses used
 
 -Having
 
+
 Below are SQL Operators used
 
 -Like
@@ -65,6 +66,8 @@ Below are SQL Operators used
 
 -Not In
 
+
+
 Below are SQL Joins used
 
 -Inner join
@@ -77,6 +80,8 @@ Below are SQL Joins used
 
 -Full Join
 
+
+
 Below are SQL Aggregation Functions used
 
 -Count
@@ -88,6 +93,8 @@ Below are SQL Aggregation Functions used
 -Min
 
 -Max
+
+
 
 Below are SQL views used
 
