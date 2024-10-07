@@ -106,8 +106,11 @@ Below are SQL views used
 
 -Rename view
 
+
   
 - GitHub for Portfolio Building.
+
+  
 
 ### Data Cleaning and Preparation
 ---
