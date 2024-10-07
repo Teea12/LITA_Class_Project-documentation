@@ -38,6 +38,42 @@ The primary source of Data used here is Data Sale.csv and this is an open source
    3. For Data Visualization.
       
 - SQL - Structured Query Language for querying of Data.
+Below are SQL Clauses used
+Where
+Order by
+Group by
+Having
+
+Below are SQL Operators used
+Like
+And
+Or
+Between
+Not Between
+In
+Not In
+
+Below are SQL Joins used
+Inner join
+Outer Join
+Right Join
+Left Join
+Full Join
+
+Below are SQL Aggregation Functions used
+Count
+Sum
+Average
+Min
+Max
+
+Below are SQL views used
+Create view
+Update view
+Drop views
+Rename view
+
+  
 - GitHub for Portfolio Building.
 
 ### Data Cleaning and Preparation
