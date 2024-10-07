@@ -23,7 +23,7 @@ This is where I documented my first project while learning Data Analysis with th
 
 ### Project Overview
 ---
-This Data Analysis project aims to use Data Analysis softwares like Microsoft Excel, Structured Query Language(SQL), Power BI to gather data, convert data from unstructured data to structured data, tell a story using the data, and generate insight in form of visualization.
+This Data Analysis project aims to use Data Analysis softwares like Microsoft Excel, Structured Query Language(SQL), Power BI to gather data, convert data from unstructured data to structured data, tell a story using the data, and generate insight in form of visualization, and make decision using the data.
 
 
 ### Data Sources
