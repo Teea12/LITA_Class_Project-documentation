@@ -59,9 +59,10 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
 
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+SELECT * FROM PAYMENT
+WHERE PAYMENT_METHOD = CASH
 ```
+
 
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/cfedbcb1-a424-4286-9111-2e0ca213e605)
