@@ -27,7 +27,7 @@ This Data Analysis project aims to use Data Analysis softwares like Microsoft Ex
 
 
 ### Data Sources
-The primary source of Data used here is Microsoft Excel, csv file, flat file, SQL database.
+The primary source of Data used on this project are Microsoft Excel, csv file, flat file, SQL database.
 
 ### Tools Used
 ---
