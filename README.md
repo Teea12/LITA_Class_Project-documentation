@@ -211,6 +211,8 @@ WHERE PAYMENT_METHOD = CASH
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
+### Power BI
+Power BI is a dta visualization and business intelligence tool. It converts data from different data sources to interactive dashboard, and create a report.
 
 
 
