@@ -23,14 +23,11 @@ This is where I documented my first project while learning Data Analysis with th
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of 
-the E commerce project over the past year. By analysing the various parameters in 
-the data received we seek to gather enough insight to make reasonable decisions 
-which then enable us to tell compelling stories around our data from the insight 
-gotten and to know the best performance from our data.
+This Data Analysis project aims to use Data Analysis softwares like Microsoft Excel, Structured Query Language(SQL), Power BI to gather data, convert data from unstructured data to structured data, tell a story using the data, and generate insight in form of visualization.
+
 
 ### Data Sources
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+The primary source of Data used here is Microsoft Excel, csv file, flat file, SQL database.
 
 ### Tools Used
 ---
