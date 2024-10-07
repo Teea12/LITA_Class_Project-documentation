@@ -49,7 +49,7 @@ And
 
 Or
 
-Pivot Table was used to create a report in Microsoft Excel.
+
 
 Also the following Excel functions were also used
 
@@ -90,6 +90,7 @@ Proper
 Normal
 
 
+Pivot Table was used to create a report in Microsoft Excel.
 
       
 - SQL - Structured Query Language for querying of Data.
