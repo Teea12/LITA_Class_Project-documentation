@@ -18,7 +18,7 @@ This is where I documented my first project while learning Data Analysis with th
 
 [Data Visualization](#data-visualization)
 
-[PowerBI](#PowerBI)
+[PowerBI](#power-BI)
 
 
 ### Project Overview
